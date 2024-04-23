@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import useCart from './hooks/useCart';
 function App() {
 
-  const { data, cart, addToCart, removeFromCart, decreaseQuantity, increaseQuantity, clearCart, isEmpty, cartTotal } = useCart()
+  const { data, cart, addToCart, removeFromCart, decreaseQuantity, increaseQuantity, clearCart } = useCart()
 
   return (
     <>
@@ -13,8 +13,6 @@ function App() {
         increaseQuantity={increaseQuantity}
         decreaseQuantity={decreaseQuantity}
         clearCart={clearCart}
-        isEmpty={isEmpty}
-        cartTotal={cartTotal}
       />
 
       <main className="container-xl mt-5">
