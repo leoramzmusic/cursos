@@ -20,7 +20,3 @@ Interfaz Intuitiva: Navega fácilmente a través del menú para seleccionar opci
 
 # Check this proyect in: [https://venerable-biscuit-2380c1.netlify.app/](https://catalog-rlpr-calculadora-propinas.netlify.app/)
 
-Screenshots
-ScreenShot_20240328151437
-
-ScreenShot_20240328151504
