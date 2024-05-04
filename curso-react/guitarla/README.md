@@ -34,5 +34,5 @@ Hemos utilizado la opción watch de Vue.js para observar cambios en el estado y 
 ### 9. Props
 Los props son una forma de pasar datos de un componente padre a un componente hijo. En Guitarla, hemos utilizado props para enviar información específica de una guitarra desde el componente principal hacia el componente Guitarra y mostrar detalles únicos de cada guitarra.
 
-Check this proyect in: [https://venerable-biscuit-2380c1.netlify.app/](https://catalog-rlpr-guitarla.netlify.app/)
+# Check this proyect in: https://catalog-rlpr-guitarla.netlify.app/
 
