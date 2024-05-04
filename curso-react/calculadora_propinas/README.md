@@ -18,5 +18,4 @@ Interfaz Intuitiva: Navega fácilmente a través del menú para seleccionar opci
 
 ###Server: Node, NPM.
 
-# Check this proyect in: [https://venerable-biscuit-2380c1.netlify.app/](https://catalog-rlpr-calculadora-propinas.netlify.app/)
-
+# Check this proyect in: https://catalog-rlpr-calculadora-propinas.netlify.app/
